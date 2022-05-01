@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&display=swap');
+
+
+
+.Hero{
+    height: 1000;
+    background-color: rgb(255, 255, 255);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1000;
+    
+}
+
+.topbox{
+    width: 95%;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Nunito', sans-serif;
+    align-items: center;
+    justify-content: baseline;
+}
+
+.manulist ul {
+    display: flex;
+    margin-right: 450px;
+    list-style: none;
+    font-size: 22px;
+    cursor: pointer;
+    
+    
+}
+
+.manulist ul li {
+    margin: 0 20px;
+    
+    
+}
+
+button{
+    background-color: transparent;
+    padding: 12px 40px;
+    border-radius: 40px;
+    border-radius:40px;
+    border: 2px solid rgb(0, 0, 0);
+    font-family: 'Nunito', sans-serif;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition-duration: 300ms;
+    
+
+}
+
+
+.logo img{
+    width: 80px;
+    
+    
+}
+
+button:hover{
+    background-color: rgba(102, 96, 96, 0.705);
+    color: rgb(255, 255, 255);
+    
+   
+    
+
+}
+
+.manulist ul li:hover{
+    text-decoration: underline;
+    color: lightskyblue;
+    text-decoration-color: mediumblue;
+    text-decoration-thickness: 3px;
+    text-decoration-style:double;
+    
+}
+
+    
+ .aa{
+    width: 400px;
+    margin-top:30px;
+    margin-left:10px;
+    
+}
+
+#lk01{
+ font-size: 30px;   
+}
+
+
